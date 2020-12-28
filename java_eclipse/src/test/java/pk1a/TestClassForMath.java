@@ -1,4 +1,4 @@
-package test.java.pk1aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy;
+package test.java.pk1a;
 
 import main.java.pk1.ClassForMath;
 import java.util.concurrent.TimeUnit;
@@ -37,7 +37,7 @@ public void testSumma() {
        Assert.assertEquals("Result", 17, tester.summa(12, 5));
 //dddddd
 }
-public void testDifference() {
+public void testDifferenceLongTest() {
 	
     ClassForMath tester = new ClassForMath();
 	try 
