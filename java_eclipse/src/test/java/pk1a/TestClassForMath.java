@@ -38,8 +38,16 @@ public void testSumma() {
 //dddddd
 }
 public void testDifference() {
-	TimeUnit.MINUTES.sleep(5);
+	
     ClassForMath tester = new ClassForMath();
+	try 
+{
+    Thread.sleep(20000);
+} 
+catch(InterruptedException e)
+{
+     // this part is executed when an exception (in this example InterruptedException) occurs
+}
     System.out.println("4");
        Assert.assertEquals("Result", 9, tester.difference(12, 5));
 
