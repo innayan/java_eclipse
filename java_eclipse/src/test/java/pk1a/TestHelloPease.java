@@ -6,6 +6,7 @@ import junit.framework.*;
 //fffff
 public class  TestHelloPease extends TestCase {
   public void testSimpleMessage() {
+   System.out.println("Test started***********");
   System.out.println("##teamcity[testStarted name='TestHelloPease']");
    	try 
 {
