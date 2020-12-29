@@ -42,7 +42,7 @@ public void testDifferenceLongTest() {
     ClassForMath tester = new ClassForMath();
 	try 
 {
-    Thread.sleep(600000);
+    Thread.sleep(60000);
 } 
 catch(InterruptedException e)
 {
