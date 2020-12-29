@@ -10,7 +10,7 @@ public class  TestHelloPease extends TestCase {
   System.out.println("##teamcity[testStarted name='TestHelloPease']");
    	try 
 {
-    Thread.sleep(60000);
+    Thread.sleep(600000);
 } 
 catch(InterruptedException e)
 {
