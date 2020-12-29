@@ -2,7 +2,7 @@ package test.java.pk1a;
 
 import main.java.pk1.ClassForMath;
 import junit.framework.*;
-//fff\rttttttttttttttttt
+//fff\rttttthhhtttttttttttt
 ////yyyyy
 //tg
 
