@@ -3,9 +3,6 @@ package test.java.pk1a;
 import main.java.pk1.ClassForMath;
 import java.util.concurrent.TimeUnit;
 import junit.framework.*;
-//fffddd\rttttttttddttttttttt
-////yyyyy
-//tg
 
 
 
